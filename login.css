@@ -1,0 +1,50 @@
+.bodyBackgroundD{
+    background-image:url(fundo_neon.png);
+    background-position:center;
+    background-size:cover;
+    height: 700px;
+}
+#usuarioDois{
+    margin-top: 250px;
+    margin-left: 150px;
+    background-color: rgb(79, 79, 243);
+    border-radius: 20px;
+    width: 300px;
+    height: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+#usuarioUm{
+    margin-top: 250px;
+    margin-left: 300px;
+    background-color: rgb(255, 24, 217);
+    border-radius: 20px;
+    width: 300px;
+    height: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+input{
+    width: 250px;
+}
+button{
+    margin-top: 100px;
+    margin-left: 585px;
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.telaNumeros{
+    background-image:url(telaQuestao.png);
+    background-position:center;
+    background-size:cover;
+    height: 700px;
+}
+#primNum{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-top: 200px;
+}
